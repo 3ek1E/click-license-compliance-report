@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\学校\作业\开源\开源创新思维\1008\.work\scancode-env\Scripts\scancode.exe\__main__.py", line 2, in <module>
+  File "D:\学校\作业\开源\开源创新思维\1008\.work\scancode-env\Lib\site-packages\scancode\cli.py", line 57, in <module>
+    from plugincode import pre_scan
+  File "D:\学校\作业\开源\开源创新思维\1008\.work\scancode-env\Lib\site-packages\plugincode\pre_scan.py", line 30, in <module>
+    pre_scan_plugins = PluginManager(
+                       ^^^^^^^^^^^^^^
+  File "D:\学校\作业\开源\开源创新思维\1008\.work\scancode-env\Lib\site-packages\plugincode\__init__.py", line 182, in __init__
+    self.manager.add_hookspecs(sys.modules[module_qname])
+  File "D:\学校\作业\开源\开源创新思维\1008\.work\scancode-env\Lib\site-packages\pluggy\_manager.py", line 366, in add_hookspecs
+    raise ValueError(
+ValueError: did not find any 'pre_scan' hooks in <module 'plugincode.pre_scan' from 'D:\\学校\\作业\\开源\\开源创新思维\\1008\\.work\\scancode-env\\Lib\\site-packages\\plugincode\\pre_scan.py'>

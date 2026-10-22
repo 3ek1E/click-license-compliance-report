@@ -1,0 +1,13 @@
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10013] ��һ�ַ���Ȩ�޲������ķ�ʽ����һ�������׽��ֵĳ��ԡ�")': /simple/scancode-toolkit/
+WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10013] ��һ�ַ���Ȩ�޲������ķ�ʽ����һ�������׽��ֵĳ��ԡ�")': /simple/scancode-toolkit/
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10013] ��һ�ַ���Ȩ�޲������ķ�ʽ����һ�������׽��ֵĳ��ԡ�")': /simple/scancode-toolkit/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10013] ��һ�ַ���Ȩ�޲������ķ�ʽ����һ�������׽��ֵĳ��ԡ�")': /simple/scancode-toolkit/
+WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7897): Failed to establish a new connection: [WinError 10013] ��һ�ַ���Ȩ�޲������ķ�ʽ����һ�������׽��ֵĳ��ԡ�")': /simple/scancode-toolkit/
+ERROR: Could not find a version that satisfies the requirement scancode-toolkit==32.4.1 (from versions: none)
+ERROR: No matching distribution found for scancode-toolkit==32.4.1
+WARNING: Failed to remove contents in a temporary directory 'C:\Users\EricMekie\AppData\Local\Packages\sandbox.{7fe2e709-ae49-46be-8cda-bbbad810f40d}\AC\Temp\pip-build-tracker-9dfduxdy'.
+You can safely remove it manually.
+WARNING: Failed to remove contents in a temporary directory 'C:\Users\EricMekie\AppData\Local\Packages\sandbox.{7fe2e709-ae49-46be-8cda-bbbad810f40d}\AC\Temp\pip-ephem-wheel-cache-zjx3i4w0'.
+You can safely remove it manually.
+WARNING: Failed to remove contents in a temporary directory 'C:\Users\EricMekie\AppData\Local\Packages\sandbox.{7fe2e709-ae49-46be-8cda-bbbad810f40d}\AC\Temp\pip-install-khgch5j5'.
+You can safely remove it manually.

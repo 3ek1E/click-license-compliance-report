@@ -1,0 +1,207 @@
+Collecting scancode-toolkit==32.4.1 (from scancode-toolkit[full]==32.4.1)
+  Downloading scancode_toolkit-32.4.1-cp312-none-any.whl.metadata (21 kB)
+Collecting Beautifulsoup4>=4.13.0 (from Beautifulsoup4[chardet]>=4.13.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading beautifulsoup4-4.15.0-py3-none-any.whl.metadata (3.8 kB)
+Collecting boolean.py>=4.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading boolean_py-5.0-py3-none-any.whl.metadata (2.3 kB)
+Collecting chardet>=3.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading chardet-7.7.0-cp312-cp312-win_amd64.whl.metadata (10 kB)
+Collecting colorama>=0.3.9 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting commoncode>=32.3.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading commoncode-33.0.0-py3-none-any.whl.metadata (2.4 kB)
+Collecting container-inspector>=31.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading container_inspector-33.1.0-py3-none-any.whl.metadata (5.4 kB)
+Collecting debian-inspector>=31.1.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading debian_inspector-31.1.1-py3-none-any.whl.metadata (5.6 kB)
+Collecting dparse2>=0.7.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading dparse2-0.7.0-py3-none-any.whl.metadata (5.4 kB)
+Collecting fasteners (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading fasteners-0.20-py3-none-any.whl.metadata (4.8 kB)
+Collecting fingerprints>=0.6.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading fingerprints-1.3.1-py3-none-any.whl.metadata (4.9 kB)
+Collecting ftfy>=6.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading ftfy-6.3.1-py3-none-any.whl.metadata (7.3 kB)
+Collecting gemfileparser2>=0.9.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading gemfileparser2-0.9.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting html5lib (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading html5lib-1.1-py2.py3-none-any.whl.metadata (16 kB)
+Collecting importlib-metadata (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading importlib_metadata-9.0.1-py3-none-any.whl.metadata (4.5 kB)
+Collecting intbitset>=3.0.2 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading intbitset-4.1.2-cp312-cp312-win_amd64.whl.metadata (5.1 kB)
+Collecting jaraco.functools (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading jaraco_functools-4.6.0-py3-none-any.whl.metadata (2.9 kB)
+Collecting javaproperties>=0.5 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading javaproperties-0.8.2-py3-none-any.whl.metadata (5.9 kB)
+Collecting jinja2>=2.7.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting jsonstreams>=0.5.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading jsonstreams-0.6.0-py2.py3-none-any.whl.metadata (3.8 kB)
+Collecting license-expression>=30.4.4 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading license_expression-30.4.4-py3-none-any.whl.metadata (11 kB)
+Collecting lxml>=5.4.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading lxml-6.1.3-cp312-cp312-win_amd64.whl.metadata (3.4 kB)
+Collecting MarkupSafe>=2.1.2 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading markupsafe-3.0.4-cp312-cp312-win_amd64.whl.metadata (2.8 kB)
+Collecting packageurl-python>=0.9.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading packageurl_python-0.17.6-py3-none-any.whl.metadata (5.1 kB)
+Collecting packvers>=21.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading packvers-21.5-py3-none-any.whl.metadata (15 kB)
+Collecting parameter-expansion-patched>=0.3.1 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading parameter_expansion_patched-0.3.1-py3-none-any.whl.metadata (4.5 kB)
+Collecting pdfminer.six>=20200101 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pdfminer_six-20260107-py3-none-any.whl.metadata (4.3 kB)
+Collecting pefile>=2020.1.1 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pefile-2024.8.26-py3-none-any.whl.metadata (1.4 kB)
+Collecting pkginfo2>=30.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pkginfo2-30.1.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting pip-requirements-parser>=32.0.1 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pip_requirements_parser-32.0.1-py3-none-any.whl.metadata (9.3 kB)
+Collecting pluggy>=1.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pluggy-1.7.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting plugincode>=32.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading plugincode-32.0.0-py3-none-any.whl.metadata (2.1 kB)
+Collecting publicsuffix2 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading publicsuffix2-2.20191221-py2.py3-none-any.whl.metadata (13 kB)
+Collecting pyahocorasick>=2.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pyahocorasick-2.3.1-cp312-cp312-win_amd64.whl.metadata (14 kB)
+Collecting pygmars>=1.0.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pygmars-1.0.0-py3-none-any.whl.metadata (6.3 kB)
+Collecting pygments (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pygments-2.21.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting pymaven-patch>=0.2.8 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pymaven_patch-0.3.2-py3-none-any.whl.metadata (1.1 kB)
+Collecting requests>=2.7.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting saneyaml>=0.6.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading saneyaml-0.6.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting spdx-tools==0.8.2 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading spdx_tools-0.8.2-py3-none-any.whl.metadata (14 kB)
+Collecting text-unidecode>=1.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading text_unidecode-1.3-py2.py3-none-any.whl.metadata (2.4 kB)
+Collecting toml>=0.10.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading toml-0.10.2-py2.py3-none-any.whl.metadata (7.1 kB)
+Collecting urlpy (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading urlpy-0.5-py2.py3-none-any.whl.metadata (893 bytes)
+Collecting xmltodict>=0.11.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading xmltodict-1.0.4-py3-none-any.whl.metadata (14 kB)
+Collecting typecode>=30.0.1 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading typecode-30.2.0-py3-none-any.whl.metadata (5.0 kB)
+Collecting extractcode>=31.0.0 (from extractcode[full]>=31.0.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading extractcode-31.1.0-py3-none-any.whl.metadata (20 kB)
+Collecting click>=8.2.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading click-8.5.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting attrs>=22.1.0 (from scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Using cached attrs-26.1.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting pyyaml (from spdx-tools==0.8.2->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pyyaml-6.0.3-cp312-cp312-win_amd64.whl.metadata (2.4 kB)
+Collecting rdflib (from spdx-tools==0.8.2->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading rdflib-7.6.0-py3-none-any.whl.metadata (12 kB)
+Collecting beartype (from spdx-tools==0.8.2->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading beartype-0.23.1-py3-none-any.whl.metadata (35 kB)
+Collecting uritools (from spdx-tools==0.8.2->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading uritools-6.1.3-py3-none-any.whl.metadata (5.1 kB)
+Collecting ply (from spdx-tools==0.8.2->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading ply-3.11-py2.py3-none-any.whl.metadata (844 bytes)
+Collecting semantic-version (from spdx-tools==0.8.2->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Using cached semantic_version-2.10.0-py2.py3-none-any.whl.metadata (9.7 kB)
+Collecting soupsieve>=1.6.1 (from Beautifulsoup4>=4.13.0->Beautifulsoup4[chardet]>=4.13.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading soupsieve-3.0.4-py3-none-any.whl.metadata (4.4 kB)
+Collecting typing-extensions>=4.0.0 (from Beautifulsoup4>=4.13.0->Beautifulsoup4[chardet]>=4.13.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting dockerfile_parse (from container-inspector>=31.0.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading dockerfile_parse-2.0.1-py2.py3-none-any.whl.metadata (3.3 kB)
+Collecting extractcode-7z>=16.5.210525 (from extractcode[full]>=31.0.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading extractcode_7z-16.5.210531-py3-none-win_amd64.whl.metadata (594 bytes)
+Collecting extractcode_libarchive>=3.5.1.210525 (from extractcode[full]>=31.0.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading extractcode_libarchive-3.5.1.210531-py3-none-win_amd64.whl.metadata (616 bytes)
+Collecting normality<4.0.0,>=3.0.1 (from fingerprints>=0.6.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading normality-3.1.0-py3-none-any.whl.metadata (3.7 kB)
+Collecting banal>=1.0.1 (from normality<4.0.0,>=3.0.1->fingerprints>=0.6.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading banal-1.1.2-py3-none-any.whl.metadata (1.6 kB)
+Collecting charset-normalizer>=2.0.0 (from normality<4.0.0,>=3.0.1->fingerprints>=0.6.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading charset_normalizer-3.5.2-cp312-cp312-win_amd64.whl.metadata (47 kB)
+Collecting pyicu>=2.10.0 (from normality<4.0.0,>=3.0.1->fingerprints>=0.6.0->scancode-toolkit==32.4.1->scancode-toolkit[full]==32.4.1)
+  Downloading pyicu-2.16.2.tar.gz (268 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  [67 lines of output]
+  (running 'icu-config --version')
+  (running 'pkg-config --modversion icu-i18n')
+  Traceback (most recent call last):
+    File "<string>", line 89, in <module>
+    File "<frozen os>", line 714, in __getitem__
+  KeyError: 'ICU_VERSION'
+  
+  During handling of the above exception, another exception occurred:
+  
+  Traceback (most recent call last):
+    File "<string>", line 92, in <module>
+    File "<string>", line 19, in check_output
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 466, in check_output
+      return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 548, in run
+      with Popen(*popenargs, **kwargs) as process:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 1026, in __init__
+      self._execute_child(args, executable, preexec_fn, close_fds,
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 1538, in _execute_child
+      hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  FileNotFoundError: [WinError 2] ϵͳ�Ҳ���ָ�����ļ���
+  
+  During handling of the above exception, another exception occurred:
+  
+  Traceback (most recent call last):
+    File "<string>", line 96, in <module>
+    File "<string>", line 19, in check_output
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 466, in check_output
+      return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 548, in run
+      with Popen(*popenargs, **kwargs) as process:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 1026, in __init__
+      self._execute_child(args, executable, preexec_fn, close_fds,
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 1538, in _execute_child
+      hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  FileNotFoundError: [WinError 2] ϵͳ�Ҳ���ָ�����ļ���
+  
+  During handling of the above exception, another exception occurred:
+  
+  Traceback (most recent call last):
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 389, in <module>
+      main()
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 373, in main
+      json_out["return_val"] = hook(**hook_input["kwargs"])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 143, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\AppData\Local\Temp\pip-build-env-cuvjx940\overlay\Lib\site-packages\setuptools\build_meta.py", line 333, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\EricMekie\AppData\Local\Temp\pip-build-env-cuvjx940\overlay\Lib\site-packages\setuptools\build_meta.py", line 301, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\EricMekie\AppData\Local\Temp\pip-build-env-cuvjx940\overlay\Lib\site-packages\setuptools\build_meta.py", line 317, in run_setup
+      exec(code, locals())  # noqa: S102 # exec is intentional here
+      ^^^^^^^^^^^^^^^^^^^^
+    File "<string>", line 99, in <module>
+  RuntimeError:
+  Please install pkg-config on your system or set the ICU_VERSION environment
+  variable to the version of ICU you have installed.
+  
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+ERROR: Failed to build 'pyicu' when getting requirements to build wheel

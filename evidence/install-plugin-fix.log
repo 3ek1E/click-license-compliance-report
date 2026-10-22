@@ -1,0 +1,21 @@
+Collecting pluggy==1.5.0
+  Downloading pluggy-1.5.0-py3-none-any.whl.metadata (4.8 kB)
+Collecting click==8.1.8
+  Downloading click-8.1.8-py3-none-any.whl.metadata (2.3 kB)
+Requirement already satisfied: colorama in .\.work\scancode-env\Lib\site-packages (from click==8.1.8) (0.4.6)
+Downloading pluggy-1.5.0-py3-none-any.whl (20 kB)
+Downloading click-8.1.8-py3-none-any.whl (98 kB)
+Installing collected packages: pluggy, click
+  Attempting uninstall: pluggy
+    Found existing installation: pluggy 1.7.0
+    Uninstalling pluggy-1.7.0:
+      Successfully uninstalled pluggy-1.7.0
+  Attempting uninstall: click
+    Found existing installation: click 8.5.0
+    Uninstalling click-8.5.0:
+      Successfully uninstalled click-8.5.0
+
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+commoncode 33.0.0 requires click>=8.3.0, but you have click 8.1.8 which is incompatible.
+scancode-toolkit 32.4.1 requires click>=8.2.0; python_version >= "3.10", but you have click 8.1.8 which is incompatible.
+Successfully installed click-8.1.8 pluggy-1.5.0

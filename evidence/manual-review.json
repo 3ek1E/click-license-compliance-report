@@ -1,0 +1,29 @@
+{
+  "commit": "874ca2bc1c30d93a4ac6e36a15ed685eafe89097",
+  "source_version_line": "__version__ = \"8.1.7\"",
+  "tracked_file_count": 146,
+  "scanned_file_count": 144,
+  "not_in_scan": [
+    ".gitignore",
+    "examples/imagepipe/.gitignore"
+  ],
+  "images": [
+    {
+      "path": "click-8.1.7/examples/imagepipe/example01.jpg",
+      "icc_profile_length": 3144,
+      "copyright_found_in_icc_profile": true,
+      "copyright_byte_offset_in_jpeg": 382,
+      "interpretation": "ICC profile copyright is not proof of photographic authorship. Image and profile licensing need separate review."
+    },
+    {
+      "path": "click-8.1.7/examples/imagepipe/example02.jpg",
+      "icc_profile_length": 3144,
+      "copyright_found_in_icc_profile": true,
+      "copyright_byte_offset_in_jpeg": 382,
+      "interpretation": "ICC profile copyright is not proof of photographic authorship. Image and profile licensing need separate review."
+    }
+  ],
+  "scanner_package_version": "attr: click.__version__",
+  "python_upstream_reference": "https://github.com/python/cpython/blob/v2.7.18/Lib/optparse.py#L40-L67",
+  "upstream_reference_caveat": "Reference for license comparison only; exact copied upstream version has not been established."
+}

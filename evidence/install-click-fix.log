@@ -1,0 +1,10 @@
+Collecting click==8.3.0
+  Downloading click-8.3.0-py3-none-any.whl.metadata (2.6 kB)
+Requirement already satisfied: colorama in .\.work\scancode-env\Lib\site-packages (from click==8.3.0) (0.4.6)
+Downloading click-8.3.0-py3-none-any.whl (107 kB)
+Installing collected packages: click
+  Attempting uninstall: click
+    Found existing installation: click 8.1.8
+    Uninstalling click-8.1.8:
+      Successfully uninstalled click-8.1.8
+Successfully installed click-8.3.0
